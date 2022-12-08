@@ -36,3 +36,5 @@ My GitHub page is http://github.com/brynnknowlt.
     how a program could create art was really interesting. I liked 
     experimenting with the colors to see what happened with the image prior 
     to turning in the lab.
+
+![The gradient image from Lab 10](images/output_image.png)
