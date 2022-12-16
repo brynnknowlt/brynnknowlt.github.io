@@ -8,7 +8,7 @@ My GitHub page is http://github.com/brynnknowlt.
 
 ### CPSC 120
 
-* [Lab 8] (https://github.com/cpsc-pilot-fall-2022/cpsc-120-lab-08-brynn-sathya-james.git)
+* [Lab 8](https://github.com/cpsc-pilot-fall-2022/cpsc-120-lab-08-brynn-sathya-james.git)
 
     I thought Lab 8 Part 3 was really interesting, especially looking at it as
     a finished product. Though working through it was a bit challenging, it 
@@ -18,7 +18,7 @@ My GitHub page is http://github.com/brynnknowlt.
     “input_file_stream.good()” meant in checking if the file being read was 
     still in the “good” state.
 
-* [Lab 9] (https://github.com/cpsc-pilot-fall-2022/cpsc-120-lab-09-carlos-l-brynn-k.git)
+* [Lab 9](https://github.com/cpsc-pilot-fall-2022/cpsc-120-lab-09-carlos-l-brynn-k.git)
 
     Lab 9 Part 2 was cool, not because it was complex or flashy, but because we 
     created the type of program we use in our daily lives without ever 
@@ -28,7 +28,7 @@ My GitHub page is http://github.com/brynnknowlt.
     started to have a firm grasp on creating vectors and reading information 
     into them.
 
-* [Lab 10] (https://github.com/cpsc-pilot-fall-2022/cpsc-120-lab-10-carlos-and-brynn.git)
+* [Lab 10](https://github.com/cpsc-pilot-fall-2022/cpsc-120-lab-10-carlos-and-brynn.git)
 
     I enjoyed Lab 10 Part 3, because creating a gradient image was really fun.
     It was cool to get to work with MagickRGB and learn how to create an image
