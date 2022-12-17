@@ -4,7 +4,7 @@ This is my home page! My name is Brynn Knowlton and I am a student at [Cal State
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/brynnknowlt.
+My GitHub page is [http://github.com/brynnknowlt](http://github.com/brynnknowlt).
 
 ### CPSC 120
 
